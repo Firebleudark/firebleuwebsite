@@ -1,0 +1,13 @@
+<header class="topbar">
+  <nav class="main-nav">
+    <div class="nav-left">
+      <a class="site-title" href="/">Firebleu</a>
+    </div>
+    <ul class="nav-links">
+      {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+    <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme">🌓</button>
+  </nav>
+</header>
