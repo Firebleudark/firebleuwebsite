@@ -1,6 +1,6 @@
 # 🔥 Firebleu Website
 
-Welcome to **Firebleu Website**, my personal site built with [Hugo](https://gohugo.io), inspired by the clean and minimal aesthetic of `antiz.fr`.
+Welcome to **Firebleu Website**, my personal site built with [Hugo](https://gohugo.io), inspired by the clean and minimal aesthetic.
 
 ![Logo](static/images/logo.png)
 
