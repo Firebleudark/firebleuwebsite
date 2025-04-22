@@ -20,7 +20,6 @@ Welcome to **Firebleu Website**, my personal site built with [Hugo](https://gohu
 - [Hugo](https://gohugo.io)
 - HTML / CSS / Markdown
 - Custom JavaScript for dark/light theme toggle
-- Hosted on [Hostinger] or other hosting platform
 
 ---
 
